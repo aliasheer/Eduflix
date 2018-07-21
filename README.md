@@ -1,2 +1,2 @@
-# eduflix
-University Project
+# Eduflix
+Stream educational video content
