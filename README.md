@@ -1,2 +1,1 @@
-# Eduflix
-Stream educational video content
+# EduflixVideoPlayer
